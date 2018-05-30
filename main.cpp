@@ -5,11 +5,8 @@
 /*
  
  COMP 371 - Assignment #2
- Professor C. Poullis
- Kyungjin Kim (ID: 40066802)
- due date: Monday May 14th, 2018 (5:00PM)
  
- basic code taken & referenced from from Labs 1,2 & 3
+ basic code taken & referenced from from Labs
  modified from http://learnopengl.com/
  
  */
